@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf1596&show_icons=true&theme=cobalt)
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf1596&show_icons=true&theme=cobalt)
 
 <!--
 **asdf1596/asdf1596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
